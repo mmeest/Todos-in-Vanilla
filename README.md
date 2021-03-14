@@ -11,7 +11,7 @@
 
 ## Features
 
-* *Input filed to add todo*
+* *Input field to add todo*
 * *List of todos*
 * *Todos can be checked for 'completed' and deleted*
 * *Filter for 'All', 'Completed' and 'Uncompleted' Todos*
